@@ -2,7 +2,7 @@
 //  ListDishesViewController.swift
 //  Yummie
 //
-//  Created by Emmanuel Okwara on 21/02/2021.
+//  Created by Abylkhair Amantayev on 18/06/2023.
 //
 
 import UIKit

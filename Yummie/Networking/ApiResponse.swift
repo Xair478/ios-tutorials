@@ -2,7 +2,7 @@
 //  ApiResponse.swift
 //  Yummie
 //
-//  Created by Emmanuel Okwara on 01/05/2021.
+//  Created by Abylkhair Amantayev on 18/06/2023.
 //
 
 import Foundation

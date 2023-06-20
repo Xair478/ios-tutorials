@@ -2,7 +2,7 @@
 //  UserDefaults+Extension.swift
 //  Yummie
 //
-//  Created by Emmanuel Okwara on 07/08/2021.
+//  Created by Abylkhair Amantayev on 18/06/2023.
 //
 
 import Foundation

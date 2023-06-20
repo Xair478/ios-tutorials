@@ -2,7 +2,7 @@
 //  AllDishes.swift
 //  Yummie
 //
-//  Created by Emmanuel Okwara on 10/06/2021.
+//  Created by Abylkhair Amantayev on 18/06/2023.
 //
 
 import Foundation
